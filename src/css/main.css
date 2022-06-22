@@ -1,0 +1,43 @@
+.card {
+    width: 26rem;
+    margin-top: 50px;
+}
+
+.card-body{
+    padding: 12px;
+}
+
+.reactions-count {
+    display: flex;
+    padding: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.fa {
+    font-size: x-large;
+    margin-right: 8px;
+}
+
+.fa-thumbs-up {
+    color: #339AF0;
+}
+
+.fa-thumbs-down {
+    color: #ea0000;
+}
+
+form {
+    margin-top: 20px;
+    width: 26rem;
+}
+
+input[type="text"] {
+    border-radius: 6px;
+}
+
+.table {
+    margin-top: 10px;
+    width: 26rem;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
